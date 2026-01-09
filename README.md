@@ -1,4 +1,5 @@
 <img src="/assets/icon.png" width="64">
+
 # Pulse
 
 Pulse is a tiny, deterministic task scheduler for Roblox. It’s designed to be a simpler (and sometimes better) alternative to using `task.wait`, `task.delay`, or `task.spawn` for your game logic.
