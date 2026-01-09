@@ -1,4 +1,4 @@
-<img src="/assets/icon.png" width="64">
+<img src="/assets/icon.png" width="128">
 
 # Pulse
 

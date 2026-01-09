@@ -9,20 +9,6 @@
       }
     },
 
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      }
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
-      }
-    },
-
     "Workspace": {
       "$properties": {
         "FilteringEnabled": true
